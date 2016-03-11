@@ -1,2 +1,3 @@
 # JavaScript
-Learning java script on my own.
+Learn javaScript from basic.
+
